@@ -163,7 +163,7 @@ nav {
 .card {
   background-color: #fff;
   border-radius: 45px;
-  margin-top: 80px;
+  margin-top: 50px;
   box-shadow: 10px 2px 30px #808080;
   padding: 30px;
 }
@@ -172,6 +172,7 @@ nav {
   width: 100%;
   margin: 0 auto;
   height: auto;
+  border-radius: 30px;
   object-fit: contain;
 }
 
@@ -202,10 +203,6 @@ nav {
 
 .chef__card {
   width: 23%;
-}
-
-.chef__card .card__image {
-  border-radius: 20px;
 }
 
 .chef__card .card__title {
