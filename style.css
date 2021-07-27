@@ -17,7 +17,7 @@ body {
 
 nav {
   height: 80px;
-  background-color: #efedf7;
+  background-color: #f3f3f5;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -110,6 +110,7 @@ nav {
   font-weight: 600;
   color: #fff;
   font-size: 15px;
+  cursor: pointer;
 }
 
 .banner__image img {
